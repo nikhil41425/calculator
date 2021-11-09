@@ -129,5 +129,4 @@ clear.addEventListener("click", function() {
   input.innerHTML = "";
 })
 
-//hello
-//css
+//calculator--
